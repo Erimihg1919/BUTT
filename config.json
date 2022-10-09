@@ -1,0 +1,14 @@
+{
+ "ip": "shunt.aternos.me",
+ "port": "57330",
+ "name": "USER444",
+ "password": "",
+ "auto-night-skip": "false",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "",
+ "login-cmd": "",
+ "loginmsg": "Hello its Arya using creeper farm . Don't use it until i leave",
+ "auto-reconnect": "true",
+ "web": "true"  
+}
